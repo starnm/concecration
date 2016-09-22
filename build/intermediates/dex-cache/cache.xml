@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/josephmathew/Documents/nisha backup folder/Consecration/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="b9b8db875bead25888610e8f5f5696c241a6123f">
+        <dex dex="/Users/josephmathew/Documents/nisha backup folder/Consecration/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ddf847b3c6e97db3935861404c366c140e53b1d0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/josephmathew/Documents/nisha backup folder/Consecration/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/josephmathew/Documents/nisha backup folder/Consecration/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.0_668c0f012c77eb8a1d3de4a2a30e8d15b5372623/classes.dex" />
+    </item>
+    <item
+        jar="/Users/josephmathew/Documents/nisha backup folder/Consecration/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/josephmathew/Documents/nisha backup folder/Consecration/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.0_731efe97d635f25bae8b32117162a57f9dd74077/classes.dex" />
+    </item>
+    <item
+        jar="/Users/josephmathew/Documents/nisha backup folder/Consecration/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/josephmathew/Documents/nisha backup folder/Consecration/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.0_d12687030a87a0cd755399d199d9e078ae6f3bfd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/josephmathew/Documents/nisha backup folder/Consecration/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/josephmathew/Documents/nisha backup folder/Consecration/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.0_ad2236021e37a56eb99f1a0c271d1acb0a65917b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/josephmathew/Documents/nisha backup folder/Consecration/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f16390c794f0d7a7fdc8ab15006e5d096faa92f8">
+        <dex dex="/Users/josephmathew/Documents/nisha backup folder/Consecration/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_39fa64ef5ea9baf70be2632fe85ec86ba715ac45/classes.dex" />
+    </item>
+    <item
+        jar="/Users/josephmathew/Documents/nisha backup folder/Consecration/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/josephmathew/Documents/nisha backup folder/Consecration/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.0_603a1fd70f102f64d945b4c735e8c8c8e02c9413/classes.dex" />
+    </item>
+    <item
+        jar="/Users/josephmathew/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/josephmathew/Documents/nisha backup folder/Consecration/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.0_883797a4f97bd46ac6fb6a7662064e0a344de81c/classes.dex" />
+    </item>
+
+</items>

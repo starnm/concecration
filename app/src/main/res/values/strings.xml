@@ -1,0 +1,318 @@
+<resources>
+    <string name="app_name">Consecration</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_concecration">ConcecrationActivity</string>
+    <string name="content_preparation">Now begins the 33-day period of exercises. St. Louis-Marie breaks these days into sections of days, each section having its own prayers, and each particular day having its own brief readings with which to fill the mind for that day (the readings come from Sacred Scripture, \"quoteThe Imitation of Christ,\"quote and \"quoteTrue Devotion to the Blessed Virgin Mary\"quote). Don\'t just read the readings, internalize them; don\'t let your lips just mouth the prayers, truly pray them.\n\nFirst comes a <b>12-day</b> preparation period that consists of emptying oneself of the spirit of the world in penance and mortification. For those 12 days, we pray the Veni Creator, the Ave Maris Stella, the Magnificat, and the Glory Be. Then follow 3 weeks, each week having a specific focus. \n\nThe first week focuses on offering up our prayers and devotions for the purpose of coming to understand ourselves and our sins; humility is the key, and the prayers the Litany of the Holy Ghost, the Litany of Loreto, and the Ave Maris Stella help us.\n \n During the second week, we ask the Holy Ghost to help us better understand the Blessed Virgin; we pray the Litany of the Holy Ghost, the Litany of Loreto, the Ave Maris Stellis, the prayer to Mary by St. Louis-Marie, and 5 decades of the Holy Rosary each day for assistance. \n\n During the third week, we seek to better understand Christ through meditation and the Litany of the Holy Ghost, the Ave Maris Stella, and the Litany of the Holy Name of Jesus, Montfort\'s prayer to Jesus, and the prayer O Jesus Living in Mary.</string>
+
+    <string name="content_day_one">And seeing the multitudes, he went up into a mountain, and when he was set down, his disciples came unto him. And opening his mouth, he taught them, saying: Blessed are the poor in spirit: for theirs is the kingdom of heaven. Blessed are the meek: for they shall possess the land. Blessed are they that mourn: for they shall be comforted. Blessed are they that hunger and thirst after justice: for they shall have their fill. Blessed are the merciful: for they shall obtain mercy. Blessed are the clean of heart: for they shall see God. Blessed are the peacemakers: for they shall be called children of God. Blessed are they that suffer persecution for justice\' sake: for theirs is the kingdom of heaven. Blessed are ye when they shall revile you, and persecute you, and speak all that is evil against you, untruly, for my sake: Be glad and rejoice, for your reward is very great in heaven. For so they persecuted the prophets that were before you. You are the salt of the earth. But if the salt lose its savour, wherewith shall it be salted? It is good for nothing any more but to be cast out, and to be trodden on by men. You are the light of the world. A city seated on a mountain cannot be hid. Neither do men light a candle and put it under a bushel, but upon a candlestick, that it may shine to all that are in the house. So let your light shine before men, that they may see your good works, and glorify your Father who is in heaven. Do not think that I am come to destroy the law, or the prophets. I am not come to destroy, but to fulfill. For amen I say unto you, till heaven and earth pass, one jot, or one tittle shall not pass of the law, till all be fulfilled. He therefore that shall break one of these least commandments, and shall so teach men, shall be called the least in the kingdom of heaven. But he that shall do and teach, he shall be called great in the kingdom of heaven.
+</string>
+    <string name="preparation_day_one">Examine your conscience, pray, practice renouncement of your own will; mortification, purity of heart. This purity is the indispensable condition for contemplating God in heaven, to see Him on earth and to know Him by the light of faith. The first part of the preparation should be employed in casting off the spirit of the world which is contrary to that of Jesus Christ. The spirit of the world consists essentially in the denial of the supreme dominion of God; a denial which is manifested in practice by sin and disobedience; thus it is principally opposed to the spirit of Christ, which is also that of Mary. \n\n
+It manifests itself by the concupiscence of the flesh, by the concupiscence of the eyes and by the pride of life, and by disobedience to God\'s laws and the abuse of created things. Its works are: sin in all forms, then all else by which the devil leads to sin; works which bring error and darkness to the mind, and seduction and corruption to the will. Its pomps are the splendor and the charms employed by the devil to render sin alluring in persons, places and things.</string>
+    <string name="content_prayer_o_jesus_living_in_mary">O Jesus living in Mary,\n\n
+Come and live in Thy servants,\n\n
+In the spirit of Thy holiness,\n\n
+In the fullness of Thy might,\n\n
+In the truth of Thy virtues,\n\n
+In the perfection of Thy ways,\n\n
+In the communion of Thy mysteries;\n\n
+Subdue every hostile power\n\n
+In Thy spirit, for the glory of the Father. Amen.</string>
+    <string name="content_prayer_litany_of_the_holy_ghost">
+Lord, have mercy on us.\n
+        \nChrist, have mercy on us. Lord, have mercy on us.\n
+        \nFather all powerful, have mercy on us\n
+        \nJesus, Eternal Son of the Father, Redeemer of the world, save us.\n
+        \nSpirit of the Father and the Son, boundless life of both, sanctify us.\n
+        \nHoly Trinity, hear us\n
+        \nHoly Ghost, Who proceedest from the Father and the Son, enter our hearts.\n
+        \nHoly Ghost, Who art equal to the Father and the Son, enter our hearts.\n
+        \nPromise of God the Father, have mercy on us. \n
+        \nRay of heavenly light, have mercy on us
+        \nAuthor of all good, have mercy on us \n
+        \nSource of heavenly water, have mercy on us \n
+        \nConsuming fire, have mercy on us\n
+        \nArdent charity, have mercy on us \n
+        \nSpiritual unction, have mercy on us \n
+        \nSpirit of love and truth, have mercy on us \n
+        \nSpirit of wisdom and understanding, have mercy on us  \n
+        \nSpirit of counsel and fortitude, have mercy on us \n
+        \nSpirit of knowledge and piety, have mercy on us \n
+        \nSpirit of the fear of the Lord, havemercy on us  \n
+        \nSpirit of grace and prayer, have mercy on us   \n
+        \nSpirit of peace and meekness, have mercy on us \n
+        \nSpirit of modesty and innocence, have mercy on us \n
+        \nHoly Ghost, the Comforter, have mercy on us  \n
+        \nHoly Ghost, the Sanctifier, have mercy on us    \n
+        \nHoly Ghost, Who governest the Church, have mercy on us  \n
+        \nGift of God, the Most High, have mercy on us  \n
+        \nSpirit Who fillest the universe, have mercy on us \n
+        \nSpirit of the adoption of the children of God, have mercy on us\n
+        \nHoly Ghost, inspire us with horror of sin.   \n
+        \nHoly Ghost, come and renew the face of the earth. \n
+        \nHoly Ghost, shed Thy light in oursouls.   \n
+        \nHoly Ghost, engrave Thy law in our hearts   \n
+        \nHoly Ghost, inflame us with the flame of Thy love.\n
+        \nHoly Ghost, open to us the treasures of Thy graces Holy Ghost, teach us to pray well. \n
+        \nHoly Ghost, enlighten us with Thy heavenly inspirations.  \n
+        \nHoly Ghost, lead us in the way of salvation   \n
+        \nHoly Ghost, grant us the only necessary knowledge. \n
+        \nHoly Ghost, inspire in us the practice of good.\n
+        \nHoly Ghost, grant us the merits of all virtues.  \n
+        \nHoly Ghost, make us persevere in justice.  \n
+        \nHoly Ghost, be Thou our everlasting reward.  \n
+        \nLamb of God, Who takest away the sins of the world, Send us Thy Holy Ghost. \n
+        \nLamb of God, Who takest away the sins of the world, pour down into our souls the gifts of the Holy Ghost.  \n
+        \nLamb of God, Who takest away the sins of the world, grant us the Spirit of wisdom and piety.  \n
+        \n\n V. Come, Holy Ghost! Fill the hearts of Thy faithful, R. And enkindle in them the fire of Thy love.  \n
+        \n\nLet Us Pray. Grant, Omerciful Father, that Thy Divine Spirit may enlighten, inflame and purify us, that He may penetrate us with His heavenly dew and make us fruitful in good works, through Our Lord Jesus Christ, Thy Son, Who with Thee, in the unity of the same Spirit, liveth and reigneth forever and ever.  \n
+        R. Amen.</string>
+    <string name="content_prayer_litany_of_holy_name_of_jesus">
+Lord, have mercy on us.
+\n\nChrist, have mercy on us.
+\n\nLord, have mercy on us.
+\n\nJesus, hear us. Jesus, graciously hear us.
+\n\nGod the Father of Heaven, have mercy on us.
+\n\nGod the Son, Redeemer of the world, have mercy on us.
+\n\nGod the Holy Ghost, have mercy on us.
+\n\nHoly Trinity, One God, have mercy on us.
+\n\nJesus, Son of the living God, have mercy on us.
+\n\nJesus, splendor of the Father, have mercy on us.
+\n\nJesus, brightness of eternal light, have mercy on us.
+\n\nJesus, King of glory, have mercy on us.
+\n\nJesus, sun of justice, have mercy on us.
+\n\nJesus, Son of the Virgin Mary, have mercy on us.
+\n\nJesus, most amiable, have mercy on us.
+\n\nJesus, most admirable, have mercy on us.
+\n\nJesus, mighty God, have mercy on us.
+\n\nJesus, Father of the world to come, have mercy on us.
+\n\nJesus, angel of great counsel, have mercy on us.
+\n\nJesus, most powerful, have mercy on us.
+\n\nJesus, most patient, have mercy on us.
+\n\nJesus, most obedient, have mercy on us.
+\n\nJesus, meek and humble, have mercy on us.
+\n\nJesus, lover of chastity, have mercy on us.
+\n\nJesus, lover of us, have mercy on us.
+\n\nJesus, God of peace, have mercy on us.
+\n\nJesus, author of life, have mercy on us.
+\n\nJesus, model of virtues, have mercy on us.
+\n\nJesus, lover of souls, have mercy on us.
+\n\nJesus, our God, have mercy on us.
+\n\nJesus, our refuge, have mercy on us.
+\n\nJesus, Father of the poor, have mercy on us.
+\n\nJesus, treasure of the faithful, have mercy on us.
+\n\nJesus, Good Shepherd, have mercy on us.
+\n\nJesus, true light, have mercy on us.
+\n\nJesus, eternal wisdom, have mercy on us.
+\n\nJesus, infinite goodness, have mercy on us.
+\n\nJesus, our way and our life, have mercy on us.
+\n\nJesus, joy of angels, have mercy on us.
+\n\nJesus, King of patriarchs, have mercy on us.
+\n\nJesus, master of Apostles, have mercy on us.
+\n\nJesus, teacher of Evangelists, have mercy on us.
+\n\nJesus, strength of martyrs, have mercy on us.
+\n\nJesus, light of confessors, have mercy on us.
+\n\nJesus, purity of virgins, have mercy on us.
+\n\nJesus, crown of all saints, have mercy on us.
+\n\nBe merciful, spare us, O Jesus.
+\n\nBe merciful, graciously hear us, O Jesus.
+\n\nFrom all evil, Jesus, deliver us. From mall sin, Jesus, deliver us.
+\n\nFrom Thy wrath, Jesus, deliver us.
+\n\nFrom the snares of the devil, Jesus, deliver us.
+\n\nFrom the spirit of fornication, Jesus, deliver us.
+\n\nFrom everlasting death, Jesus, deliver us.
+\n\nFrom the neglect of Thine inspirations, Jesus, deliver us.
+\n\nThrough the mystery of Thy holy Incarnation, Jesus, deliver us.
+\n\nThrough Thy nativity, Jesus, deliver us.
+\n\nThrough Thine infancy, Jesus, deliver us.
+\n\nThrough Thy most divine life, Jesus, deliver us.
+\n\nThrough Thy labors, Jesus, deliver us.
+\n\nThrough Thine agony and Passion, Jesus, deliver us.
+\n\nThrough Thy cross and dereliction, Jesus, deliver us.
+\n\nThrough Thy sufferings, Jesus, deliver us.
+\n\nThrough Thy death and burial, Jesus, deliver us.
+\n\nThrough Thy Resurrection, Jesus, deliver us.
+\n\nThrough Thine Ascension, Jesus, deliver us.
+\n\nThrough Thine institution of the most Holy Eucharist, Jesus, deliver us.
+\n\nThrough Thy joys, Jesus, deliver us.
+\n\nThrough Thy glory, Jesus, deliver us.
+
+\n\n\n\nLamb of God, Who takest away the sins of the world, Spare us, O Jesus.
+\nLamb of God, Who takest away the sins of the world, Graciously hear us, O Jesus.
+\nLamb of God, Who takest away the sins of the world, Have mercy on us.
+\n\n\n\nJesus, hear us, Jesus, graciously hear us.
+\n\n\n\nLet Us Pray. O Lord Jesus Christ, Who hast said: Ask and ye shall receive, seek and ye shall find, knock and it shall be opened unto you; grant, we beseech Thee, to us who ask the gift of Thy divine love, that we may ever love Thee with all our hearts, and in all our words and actions, and never cease from praising Thee.
+Give us, O Lord, a perpetual fear and love of Thy holy Name; for Thou never failest to govern those whom Thou dost solidly establish in Thy love, Who livest and reignest world without end.
+R. Amen.</string>
+    <string name="content_prayer_litany_of_blessed_virgin_mary">
+Lord, have mercy on us,
+\n\nChrist have mercy on us.
+\n\nLord, have mercy on us. Christ hear us. Christ, graciously hear us.
+\n\nGod the Father of Heaven, have mercy on us.
+\n\nGod the Son, Redeemer of the world, have mercy on us
+\n\nGod the Holy Ghost, have mercy on us.
+\n\nHoly Trinity, One God, have mercy on us.
+\n\nHoly Mary, pray for us
+\n\nHoly Mother of God, pray for us.
+\n\nHoly Virgin of virgins, pray for us.
+\n\nMother of Christ, pray for us.
+\n\nMother of divine grace, pray for us.
+\n\nMother most pure, pray for us.
+\n\nMother most chaste, pray for us.
+\n\nMother inviolate, pray for us.
+\n\nMother undefiled, pray for us.
+\n\nMother most amiable, pray for us.
+\n\nMother most admirable, pray for us.
+\n\nMother of good counsel,pray for us.
+\n\nMother of our Creator, pray for us.
+\n\nMother of our Saviour, pray for us.
+\n\nMother of the Church, pray for us.
+\n\nVirgin most prudent, pray for us.
+\n\nVirgin most venerable, pray for us.
+\n\nVirgin most renowned, pray for us.
+\n\nVirgin most powerful, pray for us.
+\n\nVirgin most merciful, pray for us.
+\n\nVirgin most faithful, pray for us.
+\n\nPreparation for Consecration, pray for us.
+\n\nMirror of justice, pray for us.
+\n\nSeat of wisdom, pray for us.
+\n\nCause of our joy, pray for us.
+\n\nVessel of honor, pray for us.
+\n\nSingular vessel of devotion, pray for us.
+\n\nMystical rose, pray for us.
+\n\nTower of David, pray for us.
+\n\nTower of ivory, pray for us.
+\n\nHouse of gold, pray for us.
+\n\nArk of the covenant, pray for us.
+\n\nGate of Heaven, pray for us.
+\n\nMorning star, pray for us.
+\n\nHealth of the sick, pray for us.
+\n\nRefuge of sinners, pray for us.
+\n\nComforter of the afflicted, pray for us.
+\n\nHelp of Christians, pray for us.
+\n\nQueen of angels, pray for us.
+\n\nQueen of patriarchs, pray for us.
+\n\nQueen of prophets, pray for us.
+\n\nQueen of Apostles, pray for us.
+\n\nQueen of martyrs, pray for us.
+\n\nQueen of confessors, pray for us.
+\n\nQueen of virgins, pray for us.
+\n\nQueen of all saints, pray for us.
+\n\nQueen conceived without Original Sin, pray for us.
+\n\nQueen assumed into Heaven, pray for us.
+\n\nQueen of the most holy Rosary, pray for us.
+\n\nQueen of peace, pray for us.
+\n\nLamb of God, Who takest away the sins of the world, Spare us, O Lord.
+\n\nLamb of God, Who takest away the sins of the world, Graciously hear us, O Lord.
+\n\nLamb of God, Who takest away the sins of the world, Have mercy on us.
+\n\n\n\nV. Pray for us, O holy Mother of God,
+\nR. That we may be made worthy of the promises of Christ.
+\n\n\n\nLet Us Pray. Grant, we beseech Thee, O Lord God, unto us Thy servants, that we may rejoice in continual health of mind and body, and by the glorious intercession of Blessed Mary, ever virgin, may be delivered from present sadness, and enter into the joy of Thine eternal gladness. Through Christ Our Lord.
+R. Amen
+    </string>
+    <string name="content_prayer_st_louis_de_montford">
+ Hail Mary, beloved Daughter of the Eternal Father! Hail Mary, admirable Mother of the Son! Hail Mary, faithful spouse of the Holy Ghost! Hail Mary, my dear Mother, my loving Mistress, my powerful sovereign! Hail my joy, my glory, my heart and my soul! Thou art all mine by mercy, and I am all thine by justice. But I am not yet sufficiently thine. I now give myself wholly to thee without keeping anything back for myself or others. If thou still seest in me anything which does not belong to thee, I beseech thee to take it and to make thyself the absolute Mistress of all that is mine. Destroy in me all that may be displeasing to God, root it up and bring it to nought; place and cultivate in me everything that is pleasing to thee.
+
+\n\nMay the light of thy faith dispel the darkness of my mind; may thy profound humility take the place of my pride; may thy sublime contemplation check the distractions of my wandering imagination; may thy continuous sight of God fill my memory with His presence; may the burning love of thy heart inflame the lukewarmness of mine; may thy virtues take the place of my sins; may thy merits be my only adornment in the sight of God and make up for all that is wanting in me. Finally, dearly beloved Mother, grant, if it be possible, that I may have no other spirit but thine to know Jesus and His divine will; that I may have no other soul but thine to praise and glorify the Lord; that I may have no other heart but thine to love God with a love as pure and ardent as thine I do not ask thee for visions, revelations, sensible devotion or spiritual pleasures. It is thy privilege to see God clearly; it is thy privilege to enjoy heavenly bliss; it is thy privilege to triumph gloriously in Heaven at the right hand of thy Son and to hold absolute sway over angels, men and demons; it is thy privilege to dispose of all the gifts of God, just as thou willest.
+
+        \n\nSuch is, O heavenly Mary, the "best part," which the Lord has given thee and which shall never be taken away from thee-and this thought fills my heart with joy. As for my part here below, I wish for no other than that which was thine: to believe sincerely without spiritual pleasures; to suffer joyfully without human consolation; to die continually to myself without respite; and to work zealously and unselfishly for thee until death as the humblest of thy servants. The only grace I beg thee to obtain for me is that every day and every moment of my life I may say: Amen, so be it\'s all that thou didst do while on earth; Amen, so be it\'s all that thou art now doing in Heaven; Amen, so be it-to all that thou art doing in my soul, so that thou alone mayest fully glorify Jesus in me for time and eternity. Amen
+    </string>
+    <string name="content_prayer_veni_Creator">
+        Come, Holy Spirit, Creator blest,
+        \n and in our souls take up Thy rest;
+        \n come with Thy grace and heavenly aid
+        \n to fill the hearts which Thou hast made.
+
+        \n\nO comforter, to Thee we cry,
+        \nO heavenly gift of God Most High,
+        \nO fount of life and fire of love,
+        \n and sweet anointing from above.
+
+        \n\nThou in Thy sevenfold gifts are known;
+        \n Thou, finger of God\'s hand we own;
+        \n Thou, promise of the Father,
+        \n Thou Who dost the tongue with power imbue.
+
+        \n\n Kindle our sense from above,
+        \n and make our hearts o\'erflow with love;
+        \n with patience firm and virtue high
+        \n the weakness of our flesh supply.
+
+        \n\nFar from us drive the foe we dread,
+        \n and grant us Thy peace instead;
+        \n so shall we not, with Thee for guide,
+        \n turn from the path of life aside.
+
+        \n\n Oh, may Thy grace on us bestow
+        \n the Father and the Son to know;
+        \n and Thee, through endless times confessed,
+        \n of both the eternal Spirit blest.
+
+        \n \n Now to the Father and the Son,
+        \n Who rose from death, be glory given,
+        \n with Thou, O Holy Comforter,
+        \n henceforth by all in earth and heaven. Amen.
+
+    </string>
+    <string name="content_prayer_ave_marias_stella">
+        Hail, O Star of the ocean,
+        \n God\'s own Mother blest,
+        \n ever sinless Virgin,
+        \n gate of heav\'nly rest.
+
+        \n \n Taking that sweet Ave,
+        \n which from Gabriel came,
+        \n peace confirm within us,
+        \n changing Eve\'s name.
+
+        \n \n Break the sinners\' fetters,
+        \n make our blindness day,
+        \n Chase all evils from us,
+        \n for all blessings pray.
+
+        \n \n Show thyself a Mother,
+        \n may the Word divine
+        \n born for us thine Infant
+        \n hear our prayers through thine.
+
+        \n \n Virgin all excelling,
+        \n mildest of the mild,
+        \n free from guilt preserve us
+        \n meek and undefiled.
+
+        \n \n Keep our life all spotless,
+        \n make our way secure
+        \n till we find in Jesus,
+        \n joy for evermore.
+
+        \n \n Praise to God the Father,
+        \n honor to the Son,
+        \n in the Holy Spirit,
+        \n be the glory one. Amen.
+    </string>
+    <string name="content_prayer_magnificat">
+        My soul doth magnify the Lord. And my spirit hath rejoiced in God my Savior. Because He
+        hath regarded the humility of His handmaid; for behold, from henceforth all generations shall call me blessed. Because He that is mighty hath done great things to me; and holy is His name. And His mercy is from generation to generations, to them that fear Him. He hath showed might in His arm; He hath scattered the proud in the conceit
+        of their heart.
+
+        \n\nHe hath put down the mighty from their seat; and hath exalted the humble. He hath filled the hungry with good things; and the rich he hath sent empty away. He hath received Israel His servant, being mindful of His mercy. As He spoke to our fathers, to Abraham and to his seed forever. Amen.
+    </string>
+    <string name="short_versus_day_one">
+      <b>Matthew 5:1-19</b>
+    </string>
+    <string name="versus_day_one">And seeing the multitudes, he went up into a mountain, and when he was set down, his disciples
+        came unto him. And opening his mouth, he taught them, saying: Blessed are the poor in spirit: for theirs is the kingdom of heaven. Blessed are the meek: for they shall possess the land. Blessed are they that mourn: for they shall be comforted. Blessed are they that hunger and thirst after justice: for they shall have their fill. Blessed are the merciful: for they shall obtain mercy. Blessed are the clean of heart: for they shall see God. Blessed are the peacemakers: for they shall be called children of God. Blessed are they that suffer persecution for justice\' sake: for theirs is the kingdom of heaven. Blessed are ye when they shall revile you, and persecute you, and speak all that is evil against you, untruly, for my sake: Be glad and rejoice, for your reward is very great in heaven. For so they persecuted the prophets that were before you. You are the salt of the earth. But if the salt lose its savour, wherewith shall it be salted? It is good for nothing any more but to be cast out, and to be trodden on by men. You are the light of the world. A city seated on a mountain cannot be hid. Neither do men light a candle and put it under a bushel, but upon a candlestick, that it may shine to all that are in the house. So let your light shine before men, that they may see your good works, and glorify your Father who is in heaven. Do not think that I am come to destroy the law, or the prophets. I am not come to destroy, but to fulfill. For amen I say unto you, till heaven and earth pass, one jot, or one tittle shall not pass of the law, till all be fulfilled. He therefore that shall break one of these least commandments, and shall so teach men, shall be called the least in the kingdom of heaven. But he that shall do and teach, he shall be called great in the kingdom of heaven.
+    </string>
+    <string name="day_one_preparation">Examine your conscience, pray, practice renouncement of your own will; mortification, purity of heart. This purity is the indispensable condition for contemplating God in heaven, to see Him on earth and to know Him by the light of faith. The first part of the preparation should be employed in casting off the spirit of the world which is contrary to that of Jesus Christ. The spirit of the world consists essentially in the denial of the supreme dominion of God; a denial which is manifested in practice by sin and disobedience; thus it is principally opposed to the spirit of Christ, which is also that of Mary.
+        \n\n
+It manifests itself by the concupiscence of the flesh, by the concupiscence of the eyes and by the pride of life, and by disobedience to God\'s laws and the abuse of created things. Its works are: sin in all forms,
+        then all else by which the devil leads to sin; works which bring error and darkness to the mind, and seduction and corruption to the will. Its pomps are the splendor and the charms employed by the devil to render sin alluring in persons, places and things.
+</string>
+    <string name="daily_prayer_link_veni_creator">Veni Creator</string>
+    <string name="daily_prayer_link_ave_maris_stella">Ave Maris Stella</string>
+    <string name="daily_prayer_link_magnificat">Magnificat</string>
+    <string name="daily_prayer_llink_glory_be">Glory be</string>
+</resources>

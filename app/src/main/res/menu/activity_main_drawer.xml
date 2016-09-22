@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_choose_a_concecration"
+            android:icon="@android:drawable/ic_menu_camera"
+            android:title="Choose a day"/>
+        <item
+            android:id="@+id/nav_preparation"
+            android:icon="@android:drawable/ic_menu_gallery"
+            android:title="Preparation"/>
+        <item
+            android:id="@+id/nav_twelve_day_preparation"
+            android:icon="@android:drawable/ic_menu_slideshow"
+            android:title="12 day preparation"/>
+        <item
+            android:id="@+id/nav_first_week"
+            android:icon="@android:drawable/ic_menu_manage"
+            android:title="First Week"/>
+        <item
+            android:id="@+id/nav_second_week"
+            android:icon="@android:drawable/ic_menu_manage"
+            android:title="Second Week"/>
+        <item
+            android:id="@+id/nav_third_week"
+            android:icon="@android:drawable/ic_menu_manage"
+            android:title="Third Week"/>
+    </group>
+
+    <item android:title="Prayers">
+        <menu>
+            <item
+                android:id="@+id/nav_prayer_veni_creator"
+                android:icon="@android:drawable/ic_menu_share"
+                android:title="Veni Creator"/>
+            <item
+                android:id="@+id/nav_prayer_ave_marias_stella"
+                android:icon="@android:drawable/ic_menu_share"
+                android:title="Ave Maris Stella "/>
+            <item
+                android:id="@+id/nav_prayer_ave_magnificat"
+                android:icon="@android:drawable/ic_menu_share"
+                android:title="Magnificat"/>
+            <item
+                android:id="@+id/nav_prayer_st_louis_de_montforts"
+                android:icon="@android:drawable/ic_menu_share"
+                android:title="St Louis De Montforts's Prayer to Mary"/>
+            <item
+                android:id="@+id/nav_prayer_litany_of_holy_ghost"
+                android:icon="@android:drawable/ic_menu_share"
+                android:title="Litany of Holy Ghost"/>
+            <item
+                android:id="@+id/nav_prayer_litany_of_the_blessed_virgin_mary"
+                android:icon="@android:drawable/ic_menu_share"
+                android:title="Litany of the Blessed Virgin Mary"/>
+            <item
+                android:id="@+id/nav_prayer_litany_of_the_holy_name_of_jesus"
+                android:icon="@android:drawable/ic_menu_share"
+                android:title="Litany of the Holy Name of Jesus"/>
+            <item
+                android:id="@+id/nav_prayer_o_jesus_living_in_mary"
+                android:icon="@android:drawable/ic_menu_share"
+                android:title="O Jesus Living in Mary"/>
+        </menu>
+    </item>
+
+</menu>

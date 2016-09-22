@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:showIn="@layout/fragment_day_one">
+
+    <TextView
+        android:id="@+id/daily_prayer_link_veni_creator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        android:textStyle="bold"
+        android:text="@string/daily_prayer_link_veni_creator"/>
+
+    <TextView
+        android:id="@+id/daily_prayer_link_magnificat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        android:textStyle="bold"
+        android:text="@string/daily_prayer_link_ave_maris_stella"/>
+
+    <TextView
+        android:id="@+id/daily_prayer_link_ave_magnificat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        android:textStyle="bold"
+        android:text="@string/daily_prayer_link_magnificat"/>
+
+    <TextView
+        android:id="@+id/daily_prayer_link_glory_be"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        android:textStyle="bold"
+        android:text="@string/daily_prayer_llink_glory_be"/>
+</LinearLayout>
